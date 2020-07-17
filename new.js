@@ -1,2 +1,2 @@
 console.log(1)
-clg(2)
+clgsss(2)
